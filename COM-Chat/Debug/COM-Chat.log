@@ -1,0 +1,22 @@
+﻿Построение начато 26.02.2016 18:53:29.
+     1>Проект "c:\Users\flerchy\documents\visual studio 2012\Projects\COM-Chat\COM-Chat\COM-Chat.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         F:\Programs\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\COM-Chat.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "COM-Chat.cpp" "COM-ChatDlg.cpp"
+         COM-ChatDlg.cpp
+         Создание кода...
+         Компиляция...
+         COM-Chat.cpp
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0419" /IDebug\ /nologo /fo"Debug\COM-Chat.res" COM-Chat.rc 
+       Link:
+         F:\Programs\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Debug\COM-Chat.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Programs\Visual Studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Debug\COM-Chat.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Debug\COM-Chat.lib" /MACHINE:X86 "Debug\COM-Chat.res"
+         "Debug\COM-Chat.obj"
+         "Debug\COM-ChatDlg.obj"
+         Debug\stdafx.obj
+         COM-Chat.vcxproj -> c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Debug\COM-Chat.exe
+     1>Построение проекта "c:\Users\flerchy\documents\visual studio 2012\Projects\COM-Chat\COM-Chat\COM-Chat.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.71

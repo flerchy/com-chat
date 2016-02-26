@@ -1,0 +1,23 @@
+﻿Построение начато 26.02.2016 18:57:10.
+     1>Проект "c:\Users\flerchy\documents\visual studio 2012\Projects\COM-Chat\COM-Chat\COM-Chat.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         F:\Programs\Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\COM-Chat.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\Programs\Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\COM-Chat.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "COM-Chat.cpp" "COM-ChatDlg.cpp"
+         COM-Chat.cpp
+         COM-ChatDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0419" /IRelease\ /nologo /fo"Release\COM-Chat.res" COM-Chat.rc 
+       Link:
+         F:\Programs\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Release\COM-Chat.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Programs\Visual Studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Release\COM-Chat.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Release\COM-Chat.lib" /MACHINE:X86 /SAFESEH "Release\COM-Chat.res"
+         "Release\COM-Chat.obj"
+         "Release\COM-ChatDlg.obj"
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         COM-Chat.vcxproj -> c:\users\flerchy\documents\visual studio 2012\Projects\COM-Chat\Release\COM-Chat.exe
+     1>Построение проекта "c:\Users\flerchy\documents\visual studio 2012\Projects\COM-Chat\COM-Chat\COM-Chat.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:17.37
